@@ -1,0 +1,27 @@
+{
+  "name": "application-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@sweetalert2/theme-dark": "^5.0.11",
+    "bulma": "^0.9.4",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "readline-sync": "^1.4.10",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.4.28",
+    "web3": "^1.7.5"
+  },
+  "devDependencies": {
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5",
+    "font-awesome": "^4.7.0"
+  }
+}
